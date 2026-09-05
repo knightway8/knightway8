@@ -2,7 +2,7 @@
 
 # knightway8 · Chess Learning Library
 
-**Gone but not forgotten  https://github.com/knightway8/Danya **
+**Gone but not forgotten  https://github.com/knightway8/Danya**
 
 Chess takes time to understand. These collections make its ideas easier to see: clear explanations, illustrated lessons, guided practice, and books to read at your own pace.
 
