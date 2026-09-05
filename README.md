@@ -6,13 +6,19 @@ Chess takes time to understand. These collections make its ideas easier to see: 
 
 **Lessons in your browser · PDF and text libraries for offline study**
 
+
+https://github.com/knightway8/Danya 
+
+
+
+
+
+
+
+
 ## Start with one clear lesson
 
 For a simple reading experience, begin with **[Chess, Clearly](https://knightway8.github.io/chess15/)**, then explore openings, tactics, and endgames below. Each page teaches one idea and shows the explanation and moves directly.
-
-
-
-https://github.com/knightway8/Danya
 
 | Repository | What it teaches | Read online |
 | --- | --- | --- |
